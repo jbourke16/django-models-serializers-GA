@@ -24,7 +24,7 @@ Nagigate to your django-catcollector directory and enter your virtual environmen
 
 ## 2. The Model Layer in the Django Architecture
 
-<img src="./mvt-pattern.png">
+<img src="https://raw.git.generalassemb.ly/seb-starfish/django-models-serializers/main/mvt-pattern.png?token=AAAMTXQM7N5VNMLAE5IT5CLGJPDY6">
 	
 This lesson focuses on the **Model layer** which provides **Views** with access to the **database**.
 
