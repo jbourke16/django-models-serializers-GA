@@ -42,7 +42,7 @@ When we retrieve data from the database (using a Model of course), we will have 
 
 Here's our final ERD for Cat Collector:
 
-![Final ERD](./final-erd.png)
+<img src="https://raw.git.generalassemb.ly/seb-starfish/django-models-serializers/main/final-erd.png?token=AAAMTXQ3GLLNRO3RMVFF23LGJPD6O"/>
 
 We can update and render the attributes of these **objects** in the same way we worked with Mongoose documents.
 
